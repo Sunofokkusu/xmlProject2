@@ -1,0 +1,27 @@
+#map {
+  height: 70vh;
+  border-radius: 20px;
+}
+
+h1,
+#liens {
+  text-align: center;
+}
+
+.air {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qltAir {
+  margin-left: 10px;
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+}
+
+.copyright{
+    margin-top: 30px;
+    text-align: center;
+}
